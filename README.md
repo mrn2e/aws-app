@@ -1,5 +1,8 @@
 # Home Affordability Application - 3-Tier Architecture
 
+## Vercel Link
+https://aws-app-server1.vercel.app/
+
 ## Purpose
 Help homebuyers see which houses in a zip code they can afford and what each would cost per month.
 
